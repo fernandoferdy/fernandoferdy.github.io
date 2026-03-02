@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1772422272721,
+  "timestamp": 1772423780503,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main-WM27YYQE.js",
+        "/main-PYJMIT3M.js",
         "/manifest.webmanifest",
         "/styles-66D7NBE5.css"
       ],
@@ -69,8 +69,10 @@
         "/assets/images/icons/descubrir.svg",
         "/assets/images/icons/directorio.svg",
         "/assets/images/icons/eliminar.svg",
+        "/assets/images/icons/escaneo-qr.svg",
         "/assets/images/icons/exclamacion.svg",
         "/assets/images/icons/facebook.svg",
+        "/assets/images/icons/formulario.svg",
         "/assets/images/icons/fuego.svg",
         "/assets/images/icons/gira-a-la-derecha.svg",
         "/assets/images/icons/google.svg",
@@ -187,8 +189,10 @@
     "/assets/images/icons/descubrir.svg": "141bc512dfceb9750e80355ff92e6292c3246362",
     "/assets/images/icons/directorio.svg": "bff80e3c4269cc8d0d3cc4750b431e4f1f6c5b31",
     "/assets/images/icons/eliminar.svg": "06294eef5ef6a7889e04238e7b064b962f46882c",
+    "/assets/images/icons/escaneo-qr.svg": "b819d56d55b6edfc9d97c50bb55a4161803adcd0",
     "/assets/images/icons/exclamacion.svg": "0af30d11b3b42c5d12edb8fe9ed764381e872aee",
     "/assets/images/icons/facebook.svg": "29237aa025eeada8025a5db4e3508d1efae5b05a",
+    "/assets/images/icons/formulario.svg": "032cadfb9944c5873e6dbbd15277e1239c028f88",
     "/assets/images/icons/fuego.svg": "94d0b91c6993f4cd0fe79463b42740ebd28bb939",
     "/assets/images/icons/gira-a-la-derecha.svg": "c59d368c25dfa80c60567760e9b493a8b43de481",
     "/assets/images/icons/google.svg": "7dab028de5afae1c798d79d2ada25194450ee591",
@@ -255,8 +259,8 @@
     "/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
     "/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
     "/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
-    "/index.html": "ee401235cf31d7edd999530d6d64039473c267c0",
-    "/main-WM27YYQE.js": "dd6482b9dd9dad1c070982f831d905665c6711b2",
+    "/index.html": "ca9b7a432dc3cc51a38bd3290057720939c2d6e0",
+    "/main-PYJMIT3M.js": "db30ef289aeb76d299465845923e56b8f6ef02fc",
     "/manifest.webmanifest": "e5f30ed675b69b43f2eba72ddbcd3a90e1aaa7af",
     "/media/layers-2x-TBM42ERR.png": "152a162333e46d24f9d89f566312fc0c64011dee",
     "/media/layers-55W3Q4RM.png": "c9e7528e491a39232ba24a2706c6c739d6fb0f06",
